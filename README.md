@@ -4,11 +4,11 @@ This is a simple BMI (Body Mass Index) calculator app built with Flutter. The ap
 
 ## Screenshots
 
-![Screenshot 1](Screenshot/Dashbord1.png)
-![Screenshot 2](Screenshot/Dashbord2.png)
-![Screenshot 3](Screenshot/Dashbord3.png)
-![Screenshot 4](Screenshot/Dashbord4.png)
-![Screenshot 5](Screenshot/Dashbord5.png)
+![Screenshot 1]<img src="Screenshot/Dashbord1.png" alt="Screenshot 1" width="200">
+![Screenshot 2]<img src="Screenshot/Dashbord2.png" alt="Screenshot 2" width="200">
+![Screenshot 3]<img src="Screenshot/Dashbord3.png" alt="Screenshot 3" width="200">
+![Screenshot 4]<img src="Screenshot/Dashbord4.png" alt="Screenshot 4" width="200">
+![Screenshot 5]<img src="Screenshot/Dashbord5.png" alt="Screenshot 5" width="200">
 
 ## Features
 
