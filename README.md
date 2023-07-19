@@ -1,7 +1,7 @@
 # BMI Calculator App
 
 This is a simple BMI (Body Mass Index) calculator app built with Flutter. The app allows users to calculate their BMI based on their weight in kilograms and height in feet and inches. It also provides a color-coded result indicating whether the user is underweight, overweight, or within a healthy weight range.
-Download the apps ()
+Download [Click here](https://github.com/Nakib00/BMI_Calculator/blob/main/Final%20apps/app-release.apk)
 
 ## Screenshots
 
